@@ -2,5 +2,6 @@
     "IP": "127.0.0.1",
     "PORT": 5000,
     "SEED_PEER_URL": "",
+    "GRPC_PEER_URL": "localhost",
     "FILES": ["archivo.txt", "cancion.txt", "himno.txt"]
 }

@@ -1,6 +1,4 @@
-import hashlib
-import requests
-import threading
+import hashlib, requests
 
 class CHORD_NODE:
     def __init__(self, id, ip, port, files, m, seed_peer_url=None):

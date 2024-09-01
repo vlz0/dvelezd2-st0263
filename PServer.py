@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-import json, threading
+import json
 from Chord import CHORD_NODE, CHORD_NETWORK
 
 app = Flask(__name__)

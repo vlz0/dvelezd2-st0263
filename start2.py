@@ -6,8 +6,8 @@ def start_process(command):
 
 def main():
     commands = [
-        'python PServer.py',
-        'python PClient.py',
+        'python grpc_server.py',
+        'python grpc_client.py',
     ]
     server_process = start_process(commands[0])
     time.sleep(5)
