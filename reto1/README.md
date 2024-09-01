@@ -79,11 +79,9 @@ El proyecto no requiere un proceso de compilación debido a que está escrito en
 
 ![1](https://github.com/user-attachments/assets/dc4de873-8659-49f2-b196-e0c9a448e86d)
 
-### 4.4 Video
-link
+### 4.4 [Video](https://youtu.be/i3ffRw9Q3vE)
  
 ## 5. Referencias:
 - Stoica, I., et al. (2001). Chord: A scalable peer-to-peer lookup protocol for internet applications. ACM SIGCOMM Computer Communication Review, 31(4), 149-160.
 - [Flask Documentation](https://flask.palletsprojects.com)
 - [gRPC Documentation](https://grpc.io/docs/)
-- [Artículo sobre Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
